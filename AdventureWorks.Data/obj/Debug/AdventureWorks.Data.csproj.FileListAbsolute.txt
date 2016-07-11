@@ -1,0 +1,10 @@
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\AdventureWorks.Data.dll.config
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\AdventureWorks.Data.dll
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\AdventureWorks.Data.pdb
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\EntityFramework.dll
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\EntityFramework.xml
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\obj\Debug\AdventureWorks.Data.csprojResolveAssemblyReference.cache
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\obj\Debug\AdventureWorks.Data.dll
+E:\Samples\AdventureWorks.Web.API\AdventureWorks.Web.API\AdventureWorks.Data\obj\Debug\AdventureWorks.Data.pdb
